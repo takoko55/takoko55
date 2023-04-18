@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm a graguate student aspiring to become an engineer✨
+
+# 🌷My skills<br>
+[![My Skills](https://skillicons.dev/icons?i=html,py,linux,latex,css,discord)](https://skillicons.dev)
+
+# 🌱learning now<br>
+[![My Skills](https://skillicons.dev/icons?i=unity,rails,js,matlab,github,fortran,cs)](https://skillicons.dev)
 
 <!--
 **takoko55/takoko55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
