@@ -1,4 +1,6 @@
-### Hi there 👋 I'm a graguate student aspiring to become an engineer✨
+### Hi there 👋
+
+- 🌱 I’m currently learning protein and medical infomation
 
 # 🌷My skills<br>
 [![My Skills](https://skillicons.dev/icons?i=html,py,linux,latex,css,discord)](https://skillicons.dev)
