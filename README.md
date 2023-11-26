@@ -8,7 +8,7 @@ thank you for visiting my page!
 
 
 # 🌱learning now<br>
-[![My Skills](https://skillicons.dev/icons?i=unity,rails,js,matlab,github,fortran,cs,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,rails,js,matlab,github,fortran,cs,swift,react)](https://skillicons.dev)
 
 
 <p align="left"> 
